@@ -2,6 +2,7 @@
 
 - [Remix Docs](https://remix.run/docs)
 - [AG Grid React Docs](https://www.ag-grid.com/react-data-grid/)
+- [AG Grid React example](https://blog.ag-grid.com/using-ag-grid-react-ui-with-remix-run/)
 
 ## Requirements
 
